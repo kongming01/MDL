@@ -1,4 +1,4 @@
-# MultiviewDL
+# MDL
 This repository contains the data for the paper "Detecting Product Adoption Intention via Multi-View Deep Learning." The code will be available soon.
 
 # Datasets
