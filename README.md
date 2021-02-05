@@ -1,5 +1,5 @@
 # MultiviewDL
-This repository contains the data for the paper "Detecting Product Adoption Intention via Multi-View Deep Learning". The code will be available soon.
+This repository contains the data for the paper "Detecting Product Adoption Intention via Multi-View Deep Learning." The code will be available soon.
 
 # Datasets
 In the above paper, the datasets "iphone", "foreo", and "movie" are used in the experiments. In each dataset folder, there are two types of files for each dataset.
